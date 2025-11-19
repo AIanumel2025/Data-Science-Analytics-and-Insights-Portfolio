@@ -1,5 +1,5 @@
 
-# 🚔 Montgomery County Police Department: A deep Crime analysis and its impact
+# 🚔 Montgomery County Police Department: Insights for everyday Policy
 An analysis of real-world data on all founded crimes reported in the County from 2016 to 2022.
 
 ### 🚩PROBLEM CONTEXT 🚩
