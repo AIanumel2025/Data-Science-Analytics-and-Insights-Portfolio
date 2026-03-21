@@ -33,6 +33,25 @@ This project predicts **asthma worsening** using:
 | **Sensitivity** | 0.48%      | 0%                  | **57.9%**         |
 | AUC          | 0.595         | 0.686               | 0.657             |
 
+### 📊 Key Visuals from the Project
+
+**Exploratory Data Analysis**
+![Age Distribution](./figures/age-distribution.png)
+![Motorway Proximity](./figures/motorway-proximity.png)
+![Target Distribution](./figures/target-distribution.png)
+
+**Asthma Deterioration by Age & Motorway Proximity**
+![Age vs Worsened](./figures/age-vs-asthma.png)
+![Motorway Proximity vs Worsened](./figures/motorway-vs-asthma.png)
+
+**Model Visualisations**
+![Decision Tree](./figures/decision-tree.png)
+![Confusion Matrix - Decision Tree](./figures/confusion-decision-tree.png)
+![Confusion Matrix - Logistic Regression](./figures/confusion-logistic.png)
+![Confusion Matrix - Random Forest](./figures/confusion-random-forest.png)
+
+*All figures generated directly from the MATLAB script*
+
 **Why Random Forest wins:** Highest detection of true worsening cases → timely interventions.
 
 ### 🛠️ How to Reproduce (2 minutes)
