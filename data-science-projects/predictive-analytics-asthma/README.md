@@ -1,5 +1,5 @@
 # 🫁 Predictive Analytics for Asthma Deterioration  
-**Environmental + Clinical Factors | CRISP-DM | SQL + MATLAB**
+**Environmental + Clinical Factors | SQL | MATLAB**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024b-orange.svg)](https://mathworks.com)
